@@ -1,0 +1,18 @@
+{
+  "name": "littlebot",
+  "version": "1.0.0",
+  "description": "little little chat bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wang Jun",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.5.4",
+    "cheerio": "^0.22.0",
+    "request": "^2.79.0",
+    "restify": "^4.3.0",
+    "weather-js": "^1.0.2"
+  }
+}

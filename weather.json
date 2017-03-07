@@ -1,0 +1,80 @@
+[
+  {
+    "location": {
+      "name": "San Francisco, CA",
+      "lat": "37.777",
+      "long": "-122.42",
+      "timezone": "-8",
+      "alert": "",
+      "degreetype": "C",
+      "imagerelativeurl": "http://blob.weather.microsoft.com/static/weather4/en-us/"
+    },
+    "current": {
+      "temperature": "10",
+      "skycode": "29",
+      "skytext": "Partly Cloudy",
+      "date": "2017-02-01",
+      "observationtime": "01:35:00",
+      "observationpoint": "San Francisco, CA",
+      "feelslike": "10",
+      "humidity": "92",
+      "winddisplay": "1 km/h South",
+      "day": "Wednesday",
+      "shortday": "Wed",
+      "windspeed": "1 km/h",
+      "imageUrl": "http://blob.weather.microsoft.com/static/weather4/en-us/law/29.gif"
+    },
+    "forecast": [
+      {
+        "low": "9",
+        "high": "15",
+        "skycodeday": "27",
+        "skytextday": "Mostly Cloudy",
+        "date": "2017-01-31",
+        "day": "Tuesday",
+        "shortday": "Tue",
+        "precip": ""
+      },
+      {
+        "low": "13",
+        "high": "14",
+        "skycodeday": "26",
+        "skytextday": "Cloudy",
+        "date": "2017-02-01",
+        "day": "Wednesday",
+        "shortday": "Wed",
+        "precip": "70"
+      },
+      {
+        "low": "12",
+        "high": "16",
+        "skycodeday": "9",
+        "skytextday": "Light Rain",
+        "date": "2017-02-02",
+        "day": "Thursday",
+        "shortday": "Thu",
+        "precip": "100"
+      },
+      {
+        "low": "11",
+        "high": "15",
+        "skycodeday": "9",
+        "skytextday": "Light Rain",
+        "date": "2017-02-03",
+        "day": "Friday",
+        "shortday": "Fri",
+        "precip": "100"
+      },
+      {
+        "low": "11",
+        "high": "14",
+        "skycodeday": "9",
+        "skytextday": "Light Rain",
+        "date": "2017-02-04",
+        "day": "Saturday",
+        "shortday": "Sat",
+        "precip": "100"
+      }
+    ]
+  }
+]
